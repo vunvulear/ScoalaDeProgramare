@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayPlanner.Requests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayPlanner.Requests.Tests", "HolidayPlanner.Requests.Tests\HolidayPlanner.Requests.Tests.csproj", "{4CE07304-0149-4E52-9822-C21146DF3C23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayPlanner.Requests.Console", "HolidayPlanner.Requests.Console\HolidayPlanner.Requests.Console.csproj", "{47AA1E69-ACBB-4A3B-8539-8BFF149F8BA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{4CE07304-0149-4E52-9822-C21146DF3C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE07304-0149-4E52-9822-C21146DF3C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE07304-0149-4E52-9822-C21146DF3C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AA1E69-ACBB-4A3B-8539-8BFF149F8BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AA1E69-ACBB-4A3B-8539-8BFF149F8BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AA1E69-ACBB-4A3B-8539-8BFF149F8BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AA1E69-ACBB-4A3B-8539-8BFF149F8BA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

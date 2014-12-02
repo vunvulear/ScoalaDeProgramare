@@ -26,6 +26,5 @@ namespace HolidayPlanner.Requests
             IConnector<Email> emailConnector = connectorResolver.Resolve<Email>();
             emailConnector.Send(email);
         }
-
     }
 }
